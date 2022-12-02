@@ -23,7 +23,7 @@ nm hello.ko
 ```
 
 
-<img src="https://github.com/Godson-Thomas/Linux-Device-Drivers/blob/master/Images/kernel_symbol_table.png" width="700">  <br><br>
+<img src="https://github.com/Godson-Thomas/Linux-Device-Drivers/blob/master/Images/kernel_symbol_table.png" width="400">  <br><br>
 
 
 ## Checking the linux drivers
@@ -42,7 +42,7 @@ cat /proc/devices
 ```
 ## Block digram of device driver types
 
-<img src="https://github.com/Godson-Thomas/Linux-Device-Drivers/blob/master/Images/block_driver_types.png" width="700">  <br><br>
+<img src="https://github.com/Godson-Thomas/Linux-Device-Drivers/blob/master/Images/block_driver_types.png" width="400">  <br><br>
 
 
 ## Finding the dts file in the loaded kernel.
@@ -59,7 +59,7 @@ ls -l /sys/firmware/devicetree/base
 ```
 lsmod
 ```
-<img src="https://github.com/Godson-Thomas/Linux-Device-Drivers/blob/master/Images/lsmod.png" width="700">  <br><br>
+<img src="https://github.com/Godson-Thomas/Linux-Device-Drivers/blob/master/Images/lsmod.png" width="400">  <br><br>
 
 
 ## Listing the registered devices in kernel
@@ -68,7 +68,7 @@ lsmod
 cat /proc/devices
 ```
 
-<img src="https://github.com/Godson-Thomas/Linux-Device-Drivers/blob/master/Images/cat_proc_devices.png" width="700">  <br><br>
+<img src="https://github.com/Godson-Thomas/Linux-Device-Drivers/blob/master/Images/cat_proc_devices.png" width="400">  <br><br>
 
 ## Creating a node in /dev directory for the device registered with the kernel.
 
@@ -79,5 +79,5 @@ c : Character device
 60 : Major Number
 0 : Minor Number
 
-<img src="https://github.com/Godson-Thomas/Linux-Device-Drivers/blob/master/Images/_dev.png" width="700">  <br><br>
+<img src="https://github.com/Godson-Thomas/Linux-Device-Drivers/blob/master/Images/_dev.png" width="400">  <br><br>
 
