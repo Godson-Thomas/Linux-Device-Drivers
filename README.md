@@ -75,9 +75,9 @@ cat /proc/devices
 ```
 sudo mknod /dev/gdsn c 60 0
 ```
-c : Character device
-60 : Major Number
-0 : Minor Number
+c : Character device <br>
+60 : Major Number <br>
+0 : Minor Number <br>
 
 <img src="https://github.com/Godson-Thomas/Linux-Device-Drivers/blob/master/Images/_dev.png" width="700">  <br><br>
 
