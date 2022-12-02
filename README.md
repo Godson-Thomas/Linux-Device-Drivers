@@ -59,7 +59,7 @@ ls -l /sys/firmware/devicetree/base
 ```
 lsmod
 ```
-<img src="https://github.com/Godson-Thomas/Linux-Device-Drivers/blob/master/Images/lsmod.png" width="400">  <br><br>
+<img src="https://github.com/Godson-Thomas/Linux-Device-Drivers/blob/master/Images/lsmod.png" width="700">  <br><br>
 
 
 ## Listing the registered devices in kernel
@@ -79,5 +79,5 @@ c : Character device
 60 : Major Number
 0 : Minor Number
 
-<img src="https://github.com/Godson-Thomas/Linux-Device-Drivers/blob/master/Images/_dev.png" width="400">  <br><br>
+<img src="https://github.com/Godson-Thomas/Linux-Device-Drivers/blob/master/Images/_dev.png" width="700">  <br><br>
 
