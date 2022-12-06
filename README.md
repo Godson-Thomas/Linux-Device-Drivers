@@ -35,11 +35,7 @@ ls /lib/modules/$(uname -r)/kernel/drivers
 ```
 cat /proc/kallsyms
 ```
-## Checking device drivers in the system
 
-```
-cat /proc/devices
-```
 ## Block digram of device driver types
 
 <img src="https://github.com/Godson-Thomas/Linux-Device-Drivers/blob/master/Images/block_driver_types.png" width="400">  <br><br>
