@@ -7,7 +7,7 @@
 /* Meta Information */
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Johannes 4 GNU/Linux");
-MODULE_DESCRIPTION("Rea Write");
+MODULE_DESCRIPTION("Read Write");
 
 /* Buffer for data */
 static char buffer[255];
