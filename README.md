@@ -79,8 +79,3 @@ c : Character device <br>
 
 
 
-## Listing the dts : What kernel sees
-
-```
-ls /sys/firmware/devicetree/base
-```
