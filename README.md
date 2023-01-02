@@ -77,3 +77,10 @@ c : Character device <br>
 
 <img src="https://github.com/Godson-Thomas/Linux-Device-Drivers/blob/master/Images/_dev.png" width="700">  <br><br>
 
+
+
+## Listing the dts : What kernel sees
+
+```
+ls /sys/firmware/devicetree/base
+```
